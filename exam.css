@@ -321,6 +321,13 @@ span {
         width: 50px;
         height: 30px;
     }
+    #nav{
+            #nav {
+        font-size: 20px;
+    }
+
+    }
+
     .or {
         display: none;
     }
